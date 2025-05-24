@@ -23,6 +23,7 @@ A desktop-based employee and department management system developed using Python
 
 ---
 📦 Requirements
+
 1-tkinter
 
 2-pillow – for image/icon support
@@ -32,6 +33,7 @@ You can install them manually if needed:
 --> pip install pillow
 
 🧑‍💻 Author
-Your Name
+
+ayoub
 
 GitHub: @ayoub788jf
